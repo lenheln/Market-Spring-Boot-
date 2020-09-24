@@ -1,4 +1,10 @@
+Market is ready
+
 Spring Security
-Bcrypt
-сделана аутентификация с хранением логинов и паролей в БД
-Spring Boot
+- User authentification is done (keep in DB)
+- BCrypt doesn't work (keep passwords without encryption)
+
+SpringBoot
+
+Connect with DB throw Hybernate (Jpa)
+using REST
